@@ -1,0 +1,34 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+height: 200vh;
+width: 200vh;
+}
+
+.div-dad {
+    height: 250px;
+    width: 250px;
+    background-color: blueviolet;
+}
+
+.div-son {
+    height: 100px;
+    width: 100px;
+    background-color:brown
+
+}
+
+a{position: fixed;
+left: 300px;
+cursor: pointer;
+color: #0000FF;}
+
+a::before {
+content: "🚀🚀🚀🚀🚀🚀🚀🚀";
+
+
+}
+a::after{
+    content: "🚀🚀🚀🚀🚀🚀🚀";
+}
