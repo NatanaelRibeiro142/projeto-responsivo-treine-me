@@ -7,6 +7,3 @@
 <br>
 <br>
 
-<img alt="wide.png" src="widecoveragepc.png](https://github.com/user-attachments/assets/5881a13c-b2f6-482d-bf0f-c1b2b35f3219)
-"
-
