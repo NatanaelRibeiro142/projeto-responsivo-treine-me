@@ -7,7 +7,7 @@
 <br>
 <br>
     <div>
-<img src="https://raw.githubusercontent.com/NatanaelRibeiro142/projeto-responsivo-treine-me/6831f30665ff86612535b57458b46a904655fa95/treine-me.png" width="650px" height="380px">
+<img src="https://raw.githubusercontent.com/NatanaelRibeiro142/projeto-responsivo-treine-me/6831f30665ff86612535b57458b46a904655fa95/treine-me.png" width="650px" height="300px">
 <img src="https://raw.githubusercontent.com/NatanaelRibeiro142/projeto-responsivo-treine-me/6831f30665ff86612535b57458b46a904655fa95/responsivo-trein-me.png">
 </div>
 <br>
